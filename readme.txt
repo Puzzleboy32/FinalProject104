@@ -1,0 +1,1 @@
+Hello, I would like to present my website; it is called Booster Juice. I made this because people who work out or feel thirsty can make smoothie recipes. I made an About Us page to introduce myself, who made this, and why I made it. I also made a Contact page to message me to add a smoothie recipe so we can share and give them credit for making and showing it.
